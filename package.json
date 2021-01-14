@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "workspaces": [
+    "src",
+    "example"
+  ],
+  "jest": {
+    "preset": "react-native"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "test": "jest --verbose",
+    "clean": "rm -rf node_modules src/node_modules example/node_modules yarn.lock"
+  }
+}
