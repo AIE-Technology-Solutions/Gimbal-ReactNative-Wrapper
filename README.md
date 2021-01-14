@@ -1,4 +1,4 @@
-# Airship React Native development
+# Gimbal React Native development
 
 A React Native module for the Airship Gimbal Adapter.
 
