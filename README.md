@@ -1,10 +1,10 @@
 # Gimbal React Native development
 
-A React Native module for the Airship Gimbal Adapter.
+A React Native module for the Gimbal Adapter.
 
 ### Issues
 
-Please visit https://support.urbanairship.com/ for any issues integrating or using this module.
+Please contact support@gimbal.com for any issues integrating or using this module.
 
 ### Requirements:
  - Xcode 11+
